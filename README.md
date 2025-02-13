@@ -1,1 +1,2 @@
 # Startup-Funding-Predictor
+This project leverages machine learning to predict the probability of a startup securing funding based on key factors. Using a Random Forest Classifier, it analyzes historical data to provide data-driven insights for better decision-making. Built with Python, Scikit-learn, Pandas, and visualization libraries, it helps startups assess their funding potential efficiently. 
